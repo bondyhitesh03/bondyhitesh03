@@ -1,3 +1,11 @@
+<br>
+<p align="center">
+  <img
+    src="./matrix-banner.gif"
+    alt="Matrix Digital Rain"
+    width="100%"
+  />
+</p>
 <h1 align="center">
   Hey 👋 What's Up? Hitesh here!
 </h1>
