@@ -30,46 +30,109 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sai-hitesh-bondada/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://github.com/bondyhitesh03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br>
 
 ---
-
-<!-- <h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bondyhitesh03&theme=onedark&no-frame=true&no-bg=true&margin-w=5&row=2&column=4" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake-dark.svg"
+    />
+
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+
+  </picture>
+</div>
+<br>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/main/profile-summary-card-output/default/3-stats.svg"
+    alt="GitHub Statistics"
+  />
 </div>
 
 <br>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
+  <img
+    src="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/main/profile-summary-card-output/default/0-profile-details.svg"
+    alt="GitHub Activity"
+  />
+</div>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bondyhitesh03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<br>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bondyhitesh03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+---
+
+<h2 align="center">💻 Languages</h2>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/main/profile-summary-card-output/default/1-repos-per-language.svg"
+    alt="Repositories by Language"
+  />
+
+<br><br>
+
+<img
+ src="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/main/profile-summary-card-output/default/2-most-commit-language.svg"
+ alt="Most Committed Languages"
+/>
 
 </div>
 
 <br>
 
---- -->
+---
+
+<h2 align="center">⏱️ Productive Time</h2>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/main/profile-summary-card-output/default/4-productive-time.svg"
+    alt="Productive Time"
+  />
+</div>
+
+<br>
+
+---
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bondyhitesh03&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=bondyhitesh03&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </div>
 
 <br>
@@ -77,34 +140,6 @@
 ---
 
 
-<!-- <h2 align="center">📈 GitHub Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bondyhitesh03&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-<br>
-
---- -->
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake.svg"
-  />
-</picture>
 <br>
 
 ---
@@ -123,7 +158,8 @@
 ---
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"
+    alt="Footer"
+  />
 </div>
