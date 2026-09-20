@@ -42,7 +42,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bondyhitesh03&theme=onedark&no-frame=true&no-bg=true&margin-w=5&row=2&column=4" />
@@ -64,7 +64,7 @@
 
 <br>
 
----
+--- -->
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
@@ -76,7 +76,8 @@
 
 ---
 
-<h2 align="center">📈 GitHub Activity</h2>
+
+<!-- <h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bondyhitesh03&theme=tokyo-night&hide_border=true&area=true" />
@@ -84,31 +85,26 @@
 
 <br>
 
----
+--- -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
-<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake-dark.svg"
+  />
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake-dark.svg"
-    />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake.svg"
+  />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake.svg"
-    />
-  </picture>
-
-</div>
-
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/bondyhitesh03/bondyhitesh03/output/github-snake.svg"
+  />
+</picture>
 <br>
 
 ---
