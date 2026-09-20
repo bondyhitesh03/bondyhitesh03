@@ -6,6 +6,10 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -13,18 +17,21 @@ jobs:
     permissions:
       contents: write
 
+    timeout-minutes: 10
+
     steps:
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: bondyhitesh03
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          target_branch: output
           build_dir: dist
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
